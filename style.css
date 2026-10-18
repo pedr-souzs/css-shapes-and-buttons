@@ -1,0 +1,66 @@
+.ab{
+  display: flex;
+  gap: 50px;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.quadrado{
+  background-color: red;
+  width: 200px;
+  height: 200px;
+  margin: 50px;
+}
+
+.retangulov{
+  background-color: green;
+  width: 400px;
+  height: 200px;
+  margin: 50px;
+}
+
+.retangulor{
+  background-color: purple;
+  width: 200px;
+  height: 400px;
+  margin: 50px;
+}
+
+.qin{
+  background-color: pink;
+  width: 200px;
+  height: 400px;
+}
+
+.AB{
+  background-color: lightblue;
+  width: 100px;
+  height: 100px;
+}
+
+.pequeno{
+  color: red;
+  background-color: lightgreen;
+  padding: 50px 50px;
+  margin: 50px;
+  border-radius: 100%;
+  border: 5px solid purple;
+}
+
+.medio{
+  color: red;
+  background-color: lightgreen;
+  padding: 100px 100px;
+  margin: 25px;
+  border-radius: 100%;
+  border: 5px solid purple;
+}
+
+.grande{
+  color: red;
+  background-color: lightgreen;
+  padding: 200px 200px;
+  margin: 50px;
+  border-radius: 100%;
+  border: 5px solid purple;
+}
